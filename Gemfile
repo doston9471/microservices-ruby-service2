@@ -47,3 +47,5 @@ group :development, :test do
 end
 
 
+
+gem "faraday", "~> 2.12"

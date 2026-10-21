@@ -48,4 +48,4 @@ end
 
 
 
-gem "faraday", "~> 2.14"
+gem "faraday", "~> 2.15"
